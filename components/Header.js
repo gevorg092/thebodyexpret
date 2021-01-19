@@ -1,3 +1,14 @@
+/**
+ * Header file
+ *
+ * @package components
+ * @author Gevorg Harutyunyan <gevorgharutyunyan092@gmail.com>
+ * @copyright 2021-01-16
+ * @licence
+ * @version
+ * @link
+ * */
+
 import React, { useState } from 'react';
 import { Button, ListItem, ListItemText, Typography, Menu, MenuItem } from '@material-ui/core';
 import { makeStyles, withStyles } from '@material-ui/core/styles';

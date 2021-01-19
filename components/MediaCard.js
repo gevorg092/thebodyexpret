@@ -1,3 +1,14 @@
+/**
+ * Media Card Component
+ *
+ * @package components
+ * @author Gevorg Harutyunyan <gevorgharutyunyan092@gmail.com>
+ * @copyright 2021-01-16
+ * @licence
+ * @version
+ * @link
+ * */
+
 import * as React from 'react';
 import { makeStyles } from '@material-ui/core/styles';
 import GlobalStyles from "./GlobalStyles";

@@ -1,3 +1,14 @@
+/**
+ * Google Map file
+ *
+ * @package components
+ * @author Gevorg Harutyunyan <gevorgharutyunyan092@gmail.com>
+ * @copyright 2021-01-16
+ * @licence
+ * @version
+ * @link
+ * */
+
 import React from 'react';
 import { GoogleMap, LoadScript, Marker } from '@react-google-maps/api';
 import googleMapStyles from './GoogleMapData.json';

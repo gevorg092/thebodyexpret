@@ -1,3 +1,14 @@
+/**
+ * Style file for Google map
+ *
+ * @package components
+ * @author Gevorg Harutyunyan <gevorgharutyunyan092@gmail.com>
+ * @copyright 2021-01-16
+ * @licence
+ * @version
+ * @link
+ * */
+
 import { makeStyles } from '@material-ui/core/styles';
 
 const GlobalStyles = makeStyles({
